@@ -1,0 +1,31 @@
+*{
+    background: rgb(244,227,234);
+background: radial-gradient(circle, rgba(244,227,234,1) 0%, rgba(203,243,250,1) 100%);
+}
+.div{
+    text-align: center;
+    color: indianred;
+
+   
+}
+.pera{
+    border: 4px dotted greenyellow;
+    border-radius: 10px;
+    margin: 10px 5px 10px 5px;
+    padding: 5px 2px 5px 50px;
+    text-align: center;
+    color: royalblue;
+}
+#pre{
+    color:orange;
+}
+
+#talika{
+    color: red;
+}
+.visit
+{
+    color: forestgreen;
+    text-align: center;
+    text-decoration: none;
+}
